@@ -1,0 +1,3 @@
+
+qemu/iso/*.iso
+qemu/hdd*.qcow
