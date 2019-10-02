@@ -1,3 +1,4 @@
 
 qemu/iso/*.iso
 qemu/hdd*.qcow
+qemu/hdd/alpine.qcow
